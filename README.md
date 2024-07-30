@@ -12,80 +12,67 @@ PSX contains a set of problems and their corresponding tests.
 - `tests/`: Mirrors units, but for test files for each individual problem subset
   and file.
   
-Root/
-│
-├── units/
-│   ├── part1/
-│   │   ├── __init__.py
-│   │   ├── problem1
-│   │   └── ...
-│   │
-│   ├── part2/
-│   │   ├── __init__.py
-│   │   ├── problem1
-│   │   └── ...
-│   │
-│   ├── functions_and_execution_context/
-│   │   ├── __init__.py
-│   │   ├── problem1
-│   │   └── ...
-│   │
-│   ├── callbacks/
-│   │   ├── __init__.py
-│   │   ├── problem1
-│   │   └── ...
-│   │
-│   ├── closure/
-│   │   ├── __init__.py
-│   │   ├── problem1
-│   │   └── ...
-│   │
-│   ├── recursion/
-│   │   ├── __init__.py
-│   │   ├── problem1
-│   │   └── ...
-│   │
-│   └── OOP/
-│       ├── __init__.py
-│       ├── problem1
-│       └── ...
-│
-└── tests/
-    ├── part1/
-    │   ├── __init__.py
-    │   ├── test_problem1
-    │   └── ...
-    │
-    ├── part2/
-    │   ├── __init__.py
-    │   ├── test_problem1
-    │   └── ...
-    │
-    ├── functions_and_execution_context/
-    │   ├── __init__.py
-    │   ├── test_problem1
-    │   └── ...
-    │
-    ├── callbacks/
-    │   ├── __init__.py
-    │   ├── test_problem1
-    │   └── ...
-    │
-    ├── closure/
-    │   ├── __init__.py
-    │   ├── test_problem1
-    │   └── ...
-    │
-    ├── recursion/
-    │   ├── __init__.py
-    │   ├── test_problem1
-    │   └── ...
-    │
-    └── OOP/
-        ├── __init__.py
-        ├── test_problem1
-        └── ...
+# Project Structure
 
+- Root/
+  - units/
+    - part1/
+      - __init__.py
+      - problem1
+      - ...
+    - part2/
+      - __init__.py
+      - problem1
+      - ...
+    - functions_and_execution_context/
+      - __init__.py
+      - problem1
+      - ...
+    - callbacks/
+      - __init__.py
+      - problem1
+      - ...
+    - closure/
+      - __init__.py
+      - problem1
+      - ...
+    - recursion/
+      - __init__.py
+      - problem1
+      - ...
+    - OOP/
+      - __init__.py
+      - problem1
+      - ...
+  - tests/
+    - part1/
+      - __init__.py
+      - test_problem1
+      - ...
+    - part2/
+      - __init__.py
+      - test_problem1
+      - ...
+    - functions_and_execution_context/
+      - __init__.py
+      - test_problem1
+      - ...
+    - callbacks/
+      - __init__.py
+      - test_problem1
+      - ...
+    - closure/
+      - __init__.py
+      - test_problem1
+      - ...
+    - recursion/
+      - __init__.py
+      - test_problem1
+      - ...
+    - OOP/
+      - __init__.py
+      - test_problem1
+      - ...
 
 ## How to Run Tests
 
