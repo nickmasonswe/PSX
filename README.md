@@ -16,60 +16,60 @@ PSX contains a set of problems and their corresponding tests.
 - Root/
   - units/
     - part1/
-      - '**init**'.py
+      - **init** .py
       - problem1
       - ...
     - part2/
-      - '**init**'.py
+      - **init** .py
       - problem1
       - ...
     - functions_and_execution_context/
-      - '**init**'.py
+      - **init** .py
       - problem1
       - ...
     - callbacks/
-      - '**init**'.py
+      - **init** .py
       - problem1
       - ...
     - closure/
-      - '**init**'.py
+      - **init** .py
       - problem1
       - ...
     - recursion/
-      - '**init**'.py
+      - **init** .py
       - problem1
       - ...
     - OOP/
-      - '**init**'.py
+      - **init** .py
       - problem1
       - ...
   - tests/
     - part1/
-      - '**init**'.py
+      - **init** .py
       - test_problem1
       - ...
     - part2/
-      - '**init**'.py
+      - **init** .py
       - test_problem1
       - ...
     - functions_and_execution_context/
-      - '**init**'.py
+      - **init** .py
       - test_problem1
       - ...
     - callbacks/
-      - '**init**'.py
+      - **init** .py
       - test_problem1
       - ...
     - closure/
-      - '**init**'.py
+      - **init** .py
       - test_problem1
       - ...
     - recursion/
-      - '**init**'.py
+      - **init** .py
       - test_problem1
       - ...
     - OOP/
-      - '**init**'.py
+      - **init** .py
       - test_problem1
       - ...
 
@@ -84,7 +84,7 @@ PSX contains a set of problems and their corresponding tests.
    example, to test problem3 in the closure unit, you would type the following
    into the CLI:
 
-   pytest tests/closure/test_problem3.py
+   pytest tests/closure/problem3_test.py
 
 I encourage you make and run your own test cases making use of print statements
 and the console!
