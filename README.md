@@ -1,6 +1,6 @@
 # PSX
 
-PSX is a Python Learning Platform inspired by CSX
+PSX is a Python Learning Platform inspired by CSX.
 
 PSX contains a set of problems and their corresponding tests.
 
@@ -93,5 +93,4 @@ correctly.
 
    pytest tests/closure/problem3_test.py
 
-I encourage you make and run your own test cases making use of print statements
-and the console!
+I encourage you to make and run your own test cases making use of print statements and the console!
