@@ -79,7 +79,14 @@ PSX contains a set of problems and their corresponding tests.
 
    pip3 install -r requirements.txt
 
-2. To run the built in tests for a specific problem use the pytest keyword and
+2. To make sure that the testing suite as working correctly, run:
+
+pytest tests/part1/canary_test.py
+
+This should yield exactly 3 passing tests and 3 failing tests if it is working
+correctly.
+
+3. To run the built in tests for a specific problem use the pytest keyword and
    specify the tests folder, unit, and problem that you want to test. For
    example, to test problem3 in the closure unit, you would type the following
    into the CLI:
