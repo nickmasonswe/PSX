@@ -6,3 +6,5 @@
 3. Declare a variable last_letter and assign it a value of the last letter of lyrics using bracket notation and the len keyword.
 '''
 
+song_title = "Space Oddity"
+lyrics = "This is Ground Control to Major Tom / You've really made the grade"
