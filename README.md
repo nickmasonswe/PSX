@@ -98,21 +98,15 @@ I encourage you to make and run your own test cases making use of print statemen
 
 ## UNDER CONSTRUCTION
 
-Key:
-
-- x : completed
-- o : not started
-- - : in progress
-
 **MVP**
 - [x] : Priority 1: Working project skeleton with pytest.ini config
 - [x] : Priority 2: Requirements.txt for dependencies
 - [x] : Priority 3: Documentation for other devs to use the platform 
 - [-] : Priority 4: Add all problems for each unit
-- [o] : Priority 5: Add tests for each problem in each unit
+- [] : Priority 5: Add tests for each problem in each unit
 
 **Stretch**
-- [o] Stretch 1: Basic GUI
-- [o] Stretch 2: connect back end to front end
-- [o] Stretch 2: Hosting
-- [o] Stretch 3: Improve front end
+- [] Stretch 1: Basic GUI
+- [] Stretch 2: connect back end to front end
+- [] Stretch 2: Hosting
+- [] Stretch 3: Improve front end
