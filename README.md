@@ -101,7 +101,7 @@ I encourage you to make and run your own test cases making use of print statemen
 **Key**
 - [x] Done
 - [ ] Not started
-  [-] In progress
+
 
 **MVP**
 - [x] : Priority 1: Working project skeleton with pytest.ini config
