@@ -115,3 +115,7 @@ I encourage you to make and run your own test cases making use of print statemen
 - [ ] Stretch 2: connect back end to front end
 - [ ] Stretch 2: Hosting
 - [ ] Stretch 3: Improve front end
+
+*OOP to be added later
+
+*Credit for the vast majority of the original questions in this set along with the idea for this platform goes to Codesmith's CSX. I feel that it is an amazing platfrom for learning JavaScript, and want to give something similiar to developers to pick up Python in a straight-forward and practical way.
