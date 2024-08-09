@@ -84,7 +84,7 @@ PSX contains a set of problems and their corresponding tests.
 pytest tests/part1/canary_test.py
 
 This should yield exactly 3 passing tests and 3 failing tests if it is working
-correctly.
+correctly. Comment out the failing tests if you want to test all of your solutions without canary throwing off your results. 
 
 3. To run the built in tests for a specific problem use the pytest keyword and
    specify the tests folder, unit, and problem that you want to test. For
@@ -100,16 +100,16 @@ I encourage you to make and run your own test cases making use of print statemen
 
 **Key**
 - [x] Done
-- [ ] Not started
+- [ ] Not Done
 
 
 **MVP**
 - [x] : Priority 1: Working project skeleton with pytest.ini config
 - [x] : Priority 2: Requirements.txt for dependencies
 - [x] : Priority 3: Documentation for other devs to use the platform 
-- [ ] : Priority 4: Add all problems for each unit
-- [ ] : Priority 5: Add tests for each problem in each unit
-
+- [ ] : Priority 4: Add tests for each problem in each unit
+- [ ] : Priority 5: Add all problems for each unit
+      
 **Stretch**
 - [ ] Stretch 1: Basic GUI
 - [ ] Stretch 2: connect back end to front end
